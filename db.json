@@ -2,11 +2,14 @@
   "admins":[
     {
       "id":1,
+      "name":"Nurlan",
+      "surname":"Rustamli",
       "email":"rustemlinurlan070@gmail.com",
       "password":"nurlan070",
       "company_name":"UNEC",
       "company_domain":"unec",
       "team_size":"11-20",
+      "PhoneNumber":"+994705111157",
       "role":"Admin"
     }
   ],
